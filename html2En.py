@@ -3,7 +3,7 @@
 from evernote.api.client import EvernoteClient
 import lxml.html
 import evernote.edam.type.ttypes as Types
-from feedly.utils import ThreadPool
+from utils import ThreadPool
 import re
 
 
